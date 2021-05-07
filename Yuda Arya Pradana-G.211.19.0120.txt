@@ -1,7 +1,0 @@
-G.211.19.0120 - Yuda Arya Pradana
-
-Slackware adalah distro Linux yang paling tua yang masih hidup. 
-Slackware tidak mencoba mengemulsi Windows dan mencoba untuk menjadi seperti Unix sebisa mungkin. 
-Selain itu, Slackware juga tidak membuat indah proses yang ada didalamnya dengan GUI (Graphical User Interface) tunjuk dan klik. 
-Slackware memposisikan pengguna sebagai pengendali. Proses pengembangannya pun tidak berdasarkan deadline, sehingga tidak terburu-buru. 
-Versi baru Slackware muncul ketika dia siap.
